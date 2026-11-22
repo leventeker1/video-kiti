@@ -1,0 +1,14 @@
+# Local Python environment and caches
+5-proje/.venv/
+5-proje/**/__pycache__/
+**/__pycache__/
+.DS_Store
+
+# User-provided references, footage, and generated videos stay local
+1-referans/*
+!1-referans/OKU.md
+2-ham/*
+!2-ham/OKU.md
+!2-ham/brief-sablonu.md
+6-cikti/*
+!6-cikti/OKU.md
